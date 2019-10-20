@@ -24,10 +24,10 @@ if(c=="y"):
    m_c+=1
  print("your score=%d\ncomputer score=%d" %(m_u,m_c))
  if(m_u>m_c):
-  print("!!..You Won..!!")
+  print("You Won the Game..!!")
  elif(m_u==m_c):
-  print("it's a Draw match")
+  print("it's a Draw Match")
  else:
-  print("you Lose..!!")
+  print("Better Luck Next Time..")
 if(c=='n'):
- print("then Bye")
+ print("Then Bye")
